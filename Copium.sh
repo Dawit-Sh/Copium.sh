@@ -1,5 +1,4 @@
 #!/bin/bash
-
 while true; do
   if [ "$1" = "" ]; then
     notify-send "Everything Is Going To Be Fine.." -i cope_cat.jpg
